@@ -40,9 +40,18 @@ cd Frontend_assign
 npm install
 npm run dev
 
----
+
 assets/dark-mode.png
 assets/light-mode.png
+
+---
+
+---
+
+that way, users see both **local run instructions** and the **live hosted link**.  
+
+do you want me to also add a **Deploy on Vercel button** (`[![Deploy with Vercel](https://frontend-assign-ffmf.vercel.app/)](...)`) so others can fork and redeploy easily?
+
 
 ![Dark Mode](./assets/dark-mode.png)
 

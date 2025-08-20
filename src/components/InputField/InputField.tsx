@@ -70,8 +70,8 @@ export default function InputField({
         )}
       </div>
 
-      {/* Strength Meter */}
-      {showStrength && type === "password" && (
+      {/* Strength Meter → show only when value is not empty */}
+      {showStrength && type === "password" && value && (
         <div className="space-y-1">
           <div className="flex items-center gap-2">
             <div className="h-2 w-full bg-gray-200 dark:bg-gray-700 rounded-full overflow-hidden">

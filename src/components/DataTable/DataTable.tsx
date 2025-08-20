@@ -14,7 +14,7 @@ interface DataTableProps {
   onRowSelect?: (rows: any[]) => void;
 }
 
-export function DataTable({ data, columns, selectable, onRowSelect }: DataTableProps) {
+export function DataTable({ data, columns, selectable }: DataTableProps) {
   const [search, setSearch] = useState("");
 
   const filteredData = data.filter((row) =>

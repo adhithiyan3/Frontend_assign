@@ -32,19 +32,6 @@ Includes an **InputField with password strength**, a **DataTable with search, se
 
 ---
 
-
-## ⚙️ Setup
-```bash
-git clone https://github.com/adhithiyan3/Frontend_assign.git
-cd Frontend_assign
-npm install
-npm run dev
-
-
-
-
----
-
 ## 🌍 Live Demo
 👉 [View the deployed app on Vercel](https://frontend-assign-ffmf.vercel.app/)
 
@@ -57,3 +44,9 @@ npm run dev
 
 
 
+## ⚙️ Setup
+```bash
+git clone https://github.com/adhithiyan3/Frontend_assign.git
+cd Frontend_assign
+npm install
+npm run dev

@@ -40,7 +40,7 @@ Includes an **InputField with password strength**, a **DataTable with search, se
 ## 📸 Screenshots
 | Dark Mode | Light Mode |
 |-----------|------------|
-| ![Dark Mode](./assets/dark-mode.png) | ![Light Mode](./assets/light-mode.png) |
+| ![Dark Mode](.src/assets/dark-mode.png) | ![Light Mode](.src/assets/light-mode.png) |
 
 
 

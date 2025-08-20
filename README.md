@@ -41,18 +41,19 @@ npm install
 npm run dev
 
 
-assets/dark-mode.png
-assets/light-mode.png
+
 
 ---
 
+## 🌍 Live Demo
+👉 [View the deployed app on Vercel](https://frontend-assign-ffmf.vercel.app/)
+
 ---
 
-that way, users see both **local run instructions** and the **live hosted link**.  
+## 📸 Screenshots
+| Dark Mode | Light Mode |
+|-----------|------------|
+| ![Dark Mode](./assets/dark-mode.png) | ![Light Mode](./assets/light-mode.png) |
 
-do you want me to also add a **Deploy on Vercel button** (`[![Deploy with Vercel](https://frontend-assign-ffmf.vercel.app/)](...)`) so others can fork and redeploy easily?
-
-
-![Dark Mode](./assets/dark-mode.png)
 
 

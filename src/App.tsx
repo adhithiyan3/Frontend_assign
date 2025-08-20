@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import { useState } from "react";
 import InputField from "./components/InputField/InputField";
 import { DataTable } from "./components/DataTable/DataTable";
 import sampleData from "./utils/sampleData";

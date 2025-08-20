@@ -32,4 +32,18 @@ Includes an **InputField with password strength**, a **DataTable with search, se
 
 ---
 
-## 📂 Project Structure
+
+## ⚙️ Setup
+```bash
+git clone https://github.com/adhithiyan3/Frontend_assign.git
+cd Frontend_assign
+npm install
+npm run dev
+
+---
+assets/dark-mode.png
+assets/light-mode.png
+
+![Dark Mode](./assets/dark-mode.png)
+
+
